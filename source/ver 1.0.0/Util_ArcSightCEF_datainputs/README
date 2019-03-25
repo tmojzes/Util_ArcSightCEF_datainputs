@@ -1,0 +1,23 @@
+1. Introduction
+
+This is the optional accessory for the Technology Add-on for HP ArcSight CEF data inputs. The utility is meant to be deployed on the Splunk heavy forwarders, Splunk indexer nodes (if there are CEF data streams directly reaching the indexer nodes), or used in all-in-one instances (primarily in develop environments).
+
+2. Installations
+
+This utility can be installed by following the standard Splunk app installation procedures, if you accept the default settings and do not want to make any changes. Alternatively, you can following the document and customize the utility before the deployments.
+
+3. Limitations
+
+This utility is not compatible with any existing apps and add-ons which also perform the index time sourcetype and source renamings.
+
+4. Documentation
+
+
+For more details, please check the product documents (Release Notes, Technical Reference, and Deployment Guide) on my GitHub repository for more details.
+https://github.com/SecretVisons/Splunk_ArcSight/current/document/Product Guide/Utility for HP ArcSight CEF data inputs
+
+5. Contact
+
+If you have any questions or issues, please feel free to contact me via email (rockey@secretvisons.com).
+You can also check out the latest version on my GitHub repository: https://github.com/SecretVisons/Splunk_ArcSight
+
