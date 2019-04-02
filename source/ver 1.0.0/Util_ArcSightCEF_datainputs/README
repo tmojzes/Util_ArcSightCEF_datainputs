@@ -1,6 +1,6 @@
 1. Introduction
 
-This is the optional accessory for the Technology Add-on for HP ArcSight CEF data inputs. The utility is meant to be deployed on the Splunk heavy forwarders, Splunk indexer nodes (if there are CEF data streams directly reaching the indexer nodes), or used in all-in-one instances (primarily in develop environments).
+This is the optional accessory for the Technology Add-on for ArcSight CEF data inputs. The utility is meant to be deployed on the Splunk heavy forwarders, Splunk indexer nodes (if there are CEF data streams directly reaching the indexer nodes), or used in all-in-one instances (primarily in develop environments).
 
 2. Installations
 
@@ -14,10 +14,10 @@ This utility is not compatible with any existing apps and add-ons which also per
 
 
 For more details, please check the product documents (Release Notes, Technical Reference, and Deployment Guide) on my GitHub repository for more details.
-https://github.com/SecretVisons/Splunk_ArcSight/current/document/Product Guide/Utility for HP ArcSight CEF data inputs
+https://github.com/SecretVisons/Util_ArcSightCEF_datainputs/tree/master/docs
 
 5. Contact
 
 If you have any questions or issues, please feel free to contact me via email (rockey@secretvisons.com).
-You can also check out the latest version on my GitHub repository: https://github.com/SecretVisons/Splunk_ArcSight
+You can also check out the latest version on my GitHub repository: https://github.com/SecretVisons/Util_ArcSightCEF_datainputs
 

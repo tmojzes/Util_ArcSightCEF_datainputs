@@ -1,7 +1,13 @@
 Version: 			1.0.0
-Release Date: 			May 18, 2018
-Supported Splunk versions:	Splunk version 6.x (Conditional Support), 7.0.x, 7.1.x
+Revision:			2.0
+Release Date: 			March 18, 2019
+Supported Splunk versions:	Splunk version 7.0.x, 7.1.x, 7.2.x
 Splunk Cloud support:		No
 Summary:
-This is the optional accessory for the Technology Add-on for HP ArcSight CEF data inputs. The utility is meant to be deployed on the Splunk heavy forwarders, Splunk indexer nodes (if there are CEF data streams directly reaching the indexer nodes), or used in all-in-one instances (primarily in develop environments).
-This utility was originally developed on the Splunk version 7.x platforms. It contains the feature (rule-based field extractions) which is not compatible with the legacy versions of Splunk (version 6.5.x, 6.6.x). In order to use this utility on the legacy versions of Splunk, you will need to following the product guides, remove the incompatible components, repackage it before the deployments.
+This is the optional accessory for the Technology Add-on for ArcSight CEF data inputs. The utility is meant to be deployed on the Splunk heavy forwarders, Splunk indexer nodes (if there are CEF data streams directly reaching the indexer nodes), or used in all-in-one instances (primarily in develop environments).
+In this revision, 
+- the revised Splunk utility does not support the legacy version of Splunk (version 6.x and below);
+- update the location of the reference and documentation location;
+- Remove the trademark of HP since ArcSight has been sold to Micro Focus by HPE;
+- Update the logos of the app;
+- Update the app.manifest and make the explicit denial of the apps which have data consistency and application reliability issue;
