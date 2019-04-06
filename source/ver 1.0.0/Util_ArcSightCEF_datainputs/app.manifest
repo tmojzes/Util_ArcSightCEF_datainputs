@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0", 
   "info": {
-    "title": "Utility for HP ArcSight CEF data inputs", 
+    "title": "Utility for ArcSight CEF data inputs", 
     "id": {
       "group": null, 
       "name": "Util_ArcSightCEF_datainputs", 

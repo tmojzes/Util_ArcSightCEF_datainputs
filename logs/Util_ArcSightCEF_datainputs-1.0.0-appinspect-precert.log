@@ -858,3 +858,26 @@ not_applicable: 162
 Please note that more issues could be found out later during the optional manual review process.
 
 
+Validating: Util_ArcSightCEF_datainputs Version: 1.0.0
+...................................................................................................................................................
+.........................................................................
+.................................
+
+A default value of 25 for max-messages will be used.
+
+
+Util_ArcSightCEF_datainputs Report Summary:
+
+       skipped:  0
+       success: 91
+  manual_check: 20
+       failure:  0
+       warning:  0
+         error:  0
+not_applicable: 162
+-------------------
+         Total: 273
+
+Please note that more issues could be found out later during the optional manual review process.
+
+
